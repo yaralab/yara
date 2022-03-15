@@ -1,0 +1,21 @@
+
+
+
+
+https://rb.gy/lvwkj6
+
+
+
+ 
+cube
+ Rigidbody
+ Physic metirial
+ 2
+
+
+ Add   Sphere, remove sphere colloder,  add circle collider 2d, rigidbody 2d
+ Add 3 quad, remove mesh collider, add box collider 2d
+Add 1 quad, remove mesh collider,  add rigidbody 2d, box collider 2d
+ Rigidbody y z
+ Add physic material 2d
+3
